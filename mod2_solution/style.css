@@ -1,0 +1,50 @@
+h1 {
+ text-align: center;
+ font-family: Arial;
+
+}
+
+.container1 {
+	background-color: #A1A1A1;
+	height: 200px;
+	width: 400px;
+	border: 1px solid black;
+	font-family: fantasy;
+	text-align: right;
+	color: #000000;
+	font-weight: bold;
+	font-size: 24px;
+	margin: 15px;
+
+
+}
+
+.container2 {
+	background-color: #A1A1A1;
+	height: 200px;
+	width: 400px;
+	border: 1px solid black;
+	font-family:fantasy;
+	color: #000000;
+	font-weight: bold;
+	font-size: 24px;
+	margin: 15px;
+}
+
+.content1 {
+	font-size: 24px;
+	color: #000000;
+	font-family: Arial;
+	text-align: right;
+	font-weight: bolder;
+	padding: 5px 20px;
+	border: 1px;
+}
+
+.content2 {
+	font-size: 14px;
+	color: #000000;
+	font-family: Arial;
+	text-align: left;
+	padding: 4px;
+}
